@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Gravitar19Cz/PocketMine-plugins
+build-by-default: true
+branches:
+- master
+projects: []
+...
